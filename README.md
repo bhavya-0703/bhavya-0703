@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bhavya-0703
+- 👀 I’m interested in AI, Robotics, Machine Learning and Data Analysis
+- 🌱 I’m currently learning Robotics
+- 💞️ I’m looking to collaborate on projects involving coding in C, MATLAB and Python 
+- 📫 How to reach me bhavyasaxena1257@gmail.com
